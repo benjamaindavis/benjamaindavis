@@ -1,5 +1,5 @@
 - 👋 im benjamaindavis
-- ⚡ Fun fact: meow? woof?
+- ⚡ Fun fact: ?
 
 <!---
 benjamaindavis/benjamaindavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
